@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**idris10x/idris10x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a BSc geography grad with a passion for turning data into actionable insights. Specializing in policy informatics and strategy analysis, I use my knowledge of the earth and its systems to help shape the future. 
 
-Here are some ideas to get you started:
+### SKills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Geographic Information Systems (GIS)
+* Strategy Analysis
+* Data Analytics
+* Data Visualisation
+* Machine Learning
+* Problem Solving
+
+### Contact
+
+* Email: [abdulkareemidris93@gmail.com](mailto:abdulkareemidris93@gmail.com)
+* LinkedIn: https://linkedin.com/in/idrisinkedin
+* Twitter: [idris10x](https://twitter.com/idris10x)
