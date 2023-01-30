@@ -1,15 +1,14 @@
 ### Hi there 👋
 
-I am a BSc geography grad with a passion for turning data into actionable insights. Specializing in policy informatics and strategy analysis, I use my knowledge of the earth and its systems to help shape the future. 
+I am a Data Literacy Educator, Productivity Ninja and Mental Wellness Enthusiast. I'm passionate about bridging the gap between technology, data, and human cognition. My mission is to empower individuals and organizations with the tools, knowledge, and techniques to improve their work and lives. 
 
 ### SKills
 
-* Geographic Information Systems (GIS)
-* Strategy Analysis
 * Data Analytics
 * Data Visualisation
 * Machine Learning
-* Problem Solving
+* NLP
+* Decision Science
 
 ### Contact
 
