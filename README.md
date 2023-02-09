@@ -2,7 +2,7 @@
 
 I am a BI Solutions Developer. My passion lies in unlocking the full potential of data and technology for better business outcomes. 
 
-### SKills
+### Skills
 
 * Business Analytics
 * Data Visualisation
