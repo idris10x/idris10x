@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-I am a Data Literacy Educator, Productivity Ninja and Mental Wellness Enthusiast. I'm passionate about bridging the gap between technology, data, and human cognition. My mission is to empower individuals and organizations with the tools, knowledge, and techniques to improve their work and lives. 
+I am a BI Solutions Developer. My passion lies in unlocking the full potential of data and technology for better business outcomes. 
 
 ### SKills
 
-* Data Analytics
+* Business Analytics
 * Data Visualisation
-* Machine Learning
-* NLP
+* Interactive App Building
+* Data-Driven Solutions
 * Decision Science
 
 ### Contact
